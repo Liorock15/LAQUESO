@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ded870i3n367l"
+path="res://.godot/imported/olimpo.obj-e6706faeca18a151f588288fe2238b34.mesh"
+
+[deps]
+
+files=["res://.godot/imported/olimpo.obj-e6706faeca18a151f588288fe2238b34.mesh"]
+
+source_file="res://Marte5/olimpo.obj"
+dest_files=["res://.godot/imported/olimpo.obj-e6706faeca18a151f588288fe2238b34.mesh", "res://.godot/imported/olimpo.obj-e6706faeca18a151f588288fe2238b34.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
